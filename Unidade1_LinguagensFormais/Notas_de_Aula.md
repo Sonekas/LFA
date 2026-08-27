@@ -937,25 +937,45 @@ Significa:
 
 ---
 
-# 📌 Checklist da Aula 1
+# Checklist da Aula 1 — Linguagens Formais e Gramáticas
 
-Antes de avançar para a próxima aula, verifique se você consegue explicar:
+## Conteúdos concluídos
 
-* [ ] O que é um **alfabeto `Σ`**;
-* [ ] O que é uma **cadeia**;
-* [ ] O que significa **`ε`**;
-* [ ] Por que **`|ε| = 0`**;
-* [ ] O que é um **prefixo**;
-* [ ] O que é um **sufixo**;
-* [ ] O que significa **`Σ*`**;
-* [ ] Se `Σ*` possui limite de tamanho;
-* [ ] O que é uma **linguagem formal `L`**;
-* [ ] O que significa **`L ⊆ Σ*`**;
-* [ ] O que é uma **gramática formal**;
-* [ ] O que são **terminais e não terminais**;
-* [ ] O que é uma **regra de produção**;
-* [ ] Como ler **`S → aS | ε`**;
-* [ ] Como gerar palavras usando uma gramática.
+- [x] Compreender o que é um **alfabeto ****`Σ`**.
+
+- [x] Identificar uma **cadeia ou palavra**.
+
+- [x] Compreender o significado da **palavra vazia ****`ε`**.
+
+- [x] Entender por que **`|ε| = 0`**.
+
+- [x] Identificar o que é um **prefixo**.
+
+- [x] Identificar o que é um **sufixo**.
+
+- [x] Compreender o significado de **`Σ*`**.
+
+- [x] Verificar se **`Σ*`**** possui limite de tamanho**.
+
+- [x] Compreender o que é uma **linguagem formal ****`L`**.
+
+- [x] Interpretar o significado de **`L ⊆ Σ*`**.
+
+- [x] Compreender o que é uma **gramática formal**.
+
+- [x] Diferenciar **terminais e não terminais**.
+
+- [x] Identificar uma **regra de produção**.
+
+- [x] Interpretar a regra **`S → aS | ε`**.
+
+- [x] Gerar palavras utilizando uma gramática formal.
+
+---
+
+## Status
+
+> **Aula 1 concluída — 15 de 15 itens concluídos.**
 
 ---
 
